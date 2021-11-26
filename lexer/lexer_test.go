@@ -188,7 +188,7 @@ func TestAnotherToken(t *testing.T) {
 	}
 }
 
-func TesttBoolCond(t *testing.T) {
+func TestBoolCond(t *testing.T) {
 	input := `let five = 5;
 	let ten = 10;
 
